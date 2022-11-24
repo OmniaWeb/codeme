@@ -4,6 +4,7 @@ h1  {
 h2 {
   width: 300px;
   text-align: center;
+  font-style: italic;
 }
 td {
   width: 500px;
