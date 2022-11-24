@@ -7,6 +7,13 @@ h2 {
 }
 p {
   width: 400px;
-  font: 13px/20px "Times New Roman";
+  font: 30px/30px "Times New Roman";
+  text-indent: 50px;
+  text-decoration: overline;
   
+}
+
+a {
+  text-decoration: none;
+  color: brown;
 }
