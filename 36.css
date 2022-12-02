@@ -1,0 +1,11 @@
+.bbb.zzz {
+	color: red;
+}
+
+h2.bbb.zzz {
+	color: rgb(81, 255, 0);
+}
+
+h2#elem.bbb {
+	color: rgb(255, 230, 0);
+}
